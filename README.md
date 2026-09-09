@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Agamjot 👋
 
 I'm an Information Technology student at Manipal Institute of Technology,
@@ -19,6 +19,8 @@ building full-stack applications and AI/ML systems — from computer vision to m
 - 🔬 **ResearchMind** — LangGraph multi-agent research system with a critic-driven rewrite loop, live on Streamlit Cloud
 - 🪡 **DarziAtDoor** — MERN + PostgreSQL/PostGIS tailor-services app with real-time GPS tracking and Razorpay integration
 - 🌿 Plant Disease Classification — ConvNeXt-based classifier with contrastive learning, ~95% accuracy across 39 classes
+
+## 🌟 Achievements:
 - 🏆 Top 75 of 52,000+ participants — Amazon HackOn Season 5
 - 🥈 Top 2 nationally (waitlist) — Smart India Hackathon 2025
 - 📊 Top 15 of 1,200+ — PwC Launchpad (Data Engineering)
@@ -40,13 +42,6 @@ building full-stack applications and AI/ML systems — from computer vision to m
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
-![Agamjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjot27&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjot27&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agamjot27&theme=radical)
-
-## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Agamjot27&theme=radical&row=1&column=6)
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/agamjot-singh-b50412204/)
