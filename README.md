@@ -1,10 +1,10 @@
 # About Me:
 Hey, I'm Agamjot 👋
 
-I'm an Information Technology student at Manipal Institute of Technology,
+I'm a final year BTech. IT student at Manipal Institute of Technology,
 building full-stack applications and AI/ML systems — from computer vision to multi-agent GenAI pipelines.
 
-- 🔭 Currently working on **ReVault**, **ResearchMind**, and **DarziAtDoor** — three finalized full-stack/ML resume projects
+- 🔭 Currently working on **ReVault**, **ResearchMind**, and **DarziAtDoor** — three finalized full-stack/ML projects
 - 🧠 Research Intern in Applied ML at MIT Manipal
 - 🌱 300+ DSA problems solved, exploring agentic AI systems (LangGraph)
 - 🏆 Senior Coordinator, Placement Cell, ACM Manipal
