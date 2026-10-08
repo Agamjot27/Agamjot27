@@ -1,32 +1,22 @@
-# About Me:
-Hey, I'm Agamjot 👋
+# Agamjot Singh
 
-I'm a final year BTech. IT student at Manipal Institute of Technology,
-building full-stack applications and AI/ML systems — from computer vision to multi-agent GenAI pipelines.
+Final-year B.Tech. Information Technology student at Manipal Institute of Technology.<br>
+Building full-stack applications and applied AI systems, from computer vision to multi-agent research workflows.<br>
+Research Intern in Applied ML at MIT Manipal.
 
-- 🔭 Currently working on **ReVault**, **ResearchMind**, and **DarziAtDoor** — three finalized full-stack/ML projects
-- 🧠 Research Intern in Applied ML at MIT Manipal
-- 🌱 300+ DSA problems solved, exploring agentic AI systems (LangGraph)
-- 🏆 Senior Coordinator, Placement Cell, ACM Manipal
+- **Amazon HackOn Season 5** — Top 75 of 52,000+ participants
+- **Smart India Hackathon 2025** — Top 2 nationally (waitlisted)
+- **PwC Launchpad · Data Engineering** — Top 15 of 1,200+ participants
+- **Goldman Sachs India Hackathon** — Top 250 out of 10,000+ participants
 
-## 💡 What I do:
-- Build full-stack applications (MERN, FastAPI + React/Redux)
-- Work with AI/ML and computer vision
-- Solve DSA and competitive programming problems
+## Selected projects
 
-## ⚡ Highlights:
-- 🔐 **ReVault** — Secure Encrypted Digital Asset Resale Platform (FastAPI, MongoDB, AES-256-GCM + RSA-2048 OAEP encryption, optional Web3 blockchain recording)
-- 🔬 **ResearchMind** — LangGraph multi-agent research system with a critic-driven rewrite loop, live on Streamlit Cloud
-- 🪡 **DarziAtDoor** — MERN + PostgreSQL/PostGIS tailor-services app with real-time GPS tracking and Razorpay integration
-- 🌿 Plant Disease Classification — ConvNeXt-based classifier with contrastive learning, ~95% accuracy across 39 classes
+- **[ReVault](https://github.com/Agamjot27/ReVault--Secure-Encrypted-Digital-Asset-Resale-Platform)** — Digital asset resale platform with encrypted storage, built with FastAPI and MongoDB.
+- **ResearchMind** — Multi-agent research system built with LangGraph, featuring a critic-driven revision loop and a Streamlit deployment.
+- **DarziAtDoor** — Tailor-services application with real-time location tracking and Razorpay payments, built with MERN and PostgreSQL/PostGIS.
 
-## 🌟 Achievements:
-- 🏆 Top 75 of 52,000+ participants — Amazon HackOn Season 5
-- 🥈 Top 2 nationally (waitlist) — Smart India Hackathon 2025
-- 📊 Top 15 of 1,200+ — PwC Launchpad (Data Engineering)
-- 💼 Top 10% — Goldman Sachs India Hackathon
+## Tech stack
 
-## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,7 +32,5 @@ building full-stack applications and AI/ML systems — from computer vision to m
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/agamjot-singh-b50412204/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Agamjot27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agamjot-singh-b50412204/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agamjot2712@gmail.com)
